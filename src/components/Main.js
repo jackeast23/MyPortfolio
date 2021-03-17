@@ -62,7 +62,27 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Portfolio</h2>
+          <h3>Project 1</h3>
+          <span className="image main">
+            <img src={pic02} alt="" />
+          </span>
+          <p>
+            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
+            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
+            urna nisi, fringila lorem et vehicula lacinia quam. Integer
+            sollicitudin mauris nec lorem luctus ultrices.
+          </p>
+          <p>
+            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
+            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
+            Pellentesque condimentum sem. In efficitur ligula tate urna.
+            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
+            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
+            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
+            tempus.
+          </p>
+          <h3>Project 2</h3>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
@@ -117,7 +137,7 @@ class Main extends React.Component {
               <input type="text" name="name" id="name" />
             </div>
             <div className="field half">
-              <label htmlFor="email">Email</label>
+              <label htmlFor="jackeast23@gmail.com">Email</label>
               <input type="text" name="email" id="email" />
             </div>
             <div className="field">
