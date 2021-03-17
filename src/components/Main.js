@@ -112,12 +112,8 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <span className="image main">
-            <img src={EastResume} width="1200" alt="" />
+            <img src={EastResume} width="600" alt="" />
           </span>
-
-
-
-
 
 
           {close}
