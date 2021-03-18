@@ -2,6 +2,10 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
+import AstarPath from '../images/AstarPath.jpg'
+import LoginSite from '../images/LoginSite.jpg'
+import JohnMcClane from '../images/JohnMcClane.jpg'
+import SpaceShooter from '../images/SpaceShooter.jpg'
 import EastResume from '../images/EastResume.png'
 
 class Main extends React.Component {
@@ -81,9 +85,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Portfolio</h2>
-          <h3>Project 1</h3>
+          <h3>A* Pathfinding Algorithm Visualizer</h3>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={AstarPath} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -118,9 +122,9 @@ class Main extends React.Component {
               </a>
             </li>
           </ul>
-          <h3>Project 2</h3>
+          <h3>LoginSite</h3>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={LoginSite} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -155,9 +159,9 @@ class Main extends React.Component {
               </a>
             </li>
           </ul>
-          <h3>Project 3</h3>
+          <h3>John McClane Twitter Bot</h3>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={JohnMcClane} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -192,9 +196,9 @@ class Main extends React.Component {
               </a>
             </li>
           </ul>
-          <h3>Project 4</h3>
+          <h3>Space Shooter</h3>
           <span className="image main">
-            <img src={pic02} alt="" />
+            <img src={SpaceShooter} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
