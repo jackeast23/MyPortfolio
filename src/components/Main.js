@@ -52,6 +52,24 @@ class Main extends React.Component {
             placerat maximus. Pellentesque aliquam maximus risus, vel sed
             vehicula.
           </p>
+          <ul className="icons">
+            <li>
+              <a
+                href="https://twitter.com/HuntaroSan"
+                className="icon fab fa-linkedin"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/jackeast23"
+                className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          </ul>
           {close}
         </article>
 
@@ -119,6 +137,24 @@ class Main extends React.Component {
             libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
             tempus.
           </p>
+          <ul className="icons">
+            <li>
+              <a
+                href="https://twitter.com/HuntaroSan"
+                className="icon fab fa-linkedin"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/jackeast23"
+                className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          </ul>
           {close}
         </article>
 
@@ -132,6 +168,24 @@ class Main extends React.Component {
           <span className="image main">
             <img src={EastResume} width="600" alt="" />
           </span>
+          <ul className="icons">
+            <li>
+              <a
+                href="https://twitter.com/HuntaroSan"
+                className="icon fab fa-linkedin"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/jackeast23"
+                className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          </ul>
 
 
           {close}
