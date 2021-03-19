@@ -7,7 +7,7 @@ import LoginSite from '../images/LoginSite.jpg'
 import JohnMcClane from '../images/JohnMcClane.jpg'
 import SpaceShooter from '../images/SpaceShooter.jpg'
 import CodeBlog from '../images/CodeBlog.jpg'
-import MyPic from '../images/MyPic.jpg'
+import MyPic from '../images/MyPic.jpeg'
 import EastResume from '../images/EastResume.png'
 
 class Main extends React.Component {
