@@ -227,10 +227,10 @@ class Main extends React.Component {
         >
         <ul className="icons">
             <li>
-              <a
+            <h3>Check out my resume</h3><a
                 href="https://twitter.com/"
                 className="icon fab fa-file"
-              ><h2>Check out my resume</h2>
+              >
                 <span className="label">Linkedin</span>
               </a>
             </li>
