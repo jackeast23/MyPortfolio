@@ -50,6 +50,9 @@ class Main extends React.Component {
           <p>
             Right now, I'm interested in trying to suck less at cooking, weightlifting (to combat the sucking less at cooking), playing video games, very amateur woodworking, and programming, where I'm currently interested in improving on React among other skills.
           </p>
+          <p>
+            Test
+          </p>
           <ul className="icons">
             <li>
               <a
