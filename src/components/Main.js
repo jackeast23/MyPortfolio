@@ -230,7 +230,7 @@ class Main extends React.Component {
               <a
                 href="https://twitter.com/"
                 className="icon fab fa-file"
-              >
+              ><h2>Check out my resume</h2>
                 <span className="label">Linkedin</span>
               </a>
             </li>
