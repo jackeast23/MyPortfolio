@@ -225,23 +225,16 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
+        <h3>Check out my Resume. LinkedIn, and GitHub</h3>
         <ul className="icons">
             <li>
-            <div>
-            <h3>Check out my Resume</h3>
-            <a
+              <a
                 href="https://twitter.com/"
-                className="icon fab fa-file"
+                className="icon fab fa-file-alt"
               >
-                <span className="label">Linkedin</span>
+                <span className="label">Resume</span>
               </a>
-            </div>
             </li>
-          </ul>
-          <span className="image main">
-            <img src={EastResume} width="600" alt="" />
-          </span>
-          <ul className="icons">
             <li>
               <a
                 href="https://twitter.com/"
@@ -259,6 +252,10 @@ class Main extends React.Component {
               </a>
             </li>
           </ul>
+          <span className="image main">
+            <img src={EastResume} width="600" alt="" />
+          </span>
+          
 
 
           {close}
