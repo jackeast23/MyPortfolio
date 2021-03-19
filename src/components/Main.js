@@ -97,7 +97,7 @@ class Main extends React.Component {
             The tool allows you to select a starting position(orange block), end position (turquoise block), and place barrier blocks (black blocks) in that order with left click. The user can then remove barrier blocks with right click if they want. Once the start and end positions have been placed the user can start the simulation by using the space bar. Once the simulation has ended the a purple line will appear showing you the most efficient route to reach the end psotion. After that the user can press 'c' to clear the grid and start again.
           </p>
           <p>
-            Link to GitHub repository below
+          Below is a link to the GitHub repository for this project
           </p>
           <ul className="icons">
             <li>
@@ -118,9 +118,10 @@ class Main extends React.Component {
           </p>
           <p>
             I built this blog as a learning tool to better understand Gatsby, which was used to build my personal site. I also built this site to dip my toes in React, which I have become very interested in as it emerges as an incredible tool in web creation.
+            Contentful was used as a content management system to store the blog posts and any media that was associated with the posts and I used GraphQL in the development process to query the blog content.
           </p>
           <p>
-            Below is a link to the GitHub repository as well as the site hosted on Netlify
+            Below is a link to the GitHub repository for this project as well as the site hosted on Netlify
           </p>
           <ul className="icons">
             <li>
@@ -145,19 +146,14 @@ class Main extends React.Component {
             <img src={LoginSite} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            This is a project that uses Flask (a Python web framework), Python3, SQLAlchemy (an open-source SQL toolkit), and Javascript to create a site that handles user authentification, note creation, and databse storage.
+            The site uses some HTML for formatting, bootstrap for the hamburger (header), and javascript for the notes functionality.
+            With this site a user can create an account, login, create/delete notes, logout, and access those notes whenever they want.
+            I built this site to get a better understanding of login and authentification that could eventually be used with other applications.
+            The site also builds off a previous notes application that I built using Javascript.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Below is a link to the GitHub repository for this project
           </p>
           <ul className="icons">
             <li>
@@ -174,19 +170,16 @@ class Main extends React.Component {
             <img src={JohnMcClane} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            JohnMcClane is a twitter bot that tweets Die Hard quotes
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            This python based twitter bot makes use of Google Sheets, Twitter API, and Cloud Scheduler to tweet a quote from the movie Die Hard everyday at 10PM EST. The google sheet, which was used as the database of quotes currently only has a couple tweets as proof of concept. The first few tweets were sent before the scheduler was added to test functionality.
+          </p>
+          <p>
+            This project was completed to test out the Twitter API and get some practice using the Cloud scheduler.
+          </p>
+          <p>
+            Below is a link to the GitHub repository for this project as well as a link to the Twitter account
           </p>
           <ul className="icons">
             <li>
@@ -211,19 +204,13 @@ class Main extends React.Component {
             <img src={SpaceShooter} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            This is a 2D space shooter game made using Python3 and Pygame.
+            I built this project becasue it looked like a fun thing to try. 
+            Pygame is also a cool set of Python modules that I ended up using in the A* Pathfinding project to visualize the algorithm.
+            The game consist of two players that can each shoot at the opposing player to eliminate them from the game.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Below is a link to the GitHub repository for this project as well as a link to the Twitter account
           </p>
           <ul className="icons">
             <li>
