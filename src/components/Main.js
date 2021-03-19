@@ -225,6 +225,16 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
+        <ul className="icons">
+            <li>
+              <a
+                href="https://twitter.com/"
+                className="icon fab fa-file"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+          </ul>
           <span className="image main">
             <img src={EastResume} width="600" alt="" />
           </span>
