@@ -7,6 +7,7 @@ import LoginSite from '../images/LoginSite.jpg'
 import JohnMcClane from '../images/JohnMcClane.jpg'
 import SpaceShooter from '../images/SpaceShooter.jpg'
 import CodeBlog from '../images/CodeBlog.jpg'
+import MyPic from '../images/MyPic.jpg'
 import EastResume from '../images/EastResume.png'
 
 class Main extends React.Component {
@@ -35,7 +36,7 @@ class Main extends React.Component {
         >
           <h2 className="major">About Me</h2>
           <span className="image main">
-            <img src={pic01} alt="" />
+            <img src={MyPic} alt="" />
           </span>
           <p>
             Hi! I'm Jack East
