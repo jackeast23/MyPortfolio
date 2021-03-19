@@ -6,6 +6,7 @@ import AstarPath from '../images/AstarPath.jpg'
 import LoginSite from '../images/LoginSite.jpg'
 import JohnMcClane from '../images/JohnMcClane.jpg'
 import SpaceShooter from '../images/SpaceShooter.jpg'
+import CodeBlog from '../images/CodeBlog.jpg'
 import EastResume from '../images/EastResume.png'
 
 class Main extends React.Component {
@@ -88,6 +89,43 @@ class Main extends React.Component {
           <h3>A* Pathfinding Algorithm Visualizer</h3>
           <span className="image main">
             <img src={AstarPath} alt="" />
+          </span>
+          <p>
+            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
+            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
+            urna nisi, fringila lorem et vehicula lacinia quam. Integer
+            sollicitudin mauris nec lorem luctus ultrices.
+          </p>
+          <p>
+            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
+            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
+            Pellentesque condimentum sem. In efficitur ligula tate urna.
+            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
+            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
+            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
+            tempus.
+          </p>
+          <ul className="icons">
+            <li>
+              <a
+                href="https://twitter.com/HuntaroSan"
+                className="icon fab fa-linkedin"
+              >
+                <span className="label">Linkedin</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://github.com/jackeast23"
+                className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
+          </ul>
+          <h3>Code Blog</h3>
+          <span className="image main">
+            <img src={CodeBlog} alt="" />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
