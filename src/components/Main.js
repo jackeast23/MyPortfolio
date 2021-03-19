@@ -91,32 +91,18 @@ class Main extends React.Component {
             <img src={AstarPath} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            This is a visual implementation of the A* poathfinding algorithm that uses Python3 and pygame.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            The tool allows you to select a starting position(orange block), end position (turquoise block), and place barrier blocks (black blocks) in that order with left click. The user can then remove barrier blocks with right click if they want. Once the start and end positions have been placed the user can start the simulation by using the space bar. Once the simulation has ended the a purple line will appear showing you the most efficient route to reach the end psotion. After that the user can press 'c' to clear the grid and start again.
+          </p>
+          <p>
+            Link to GitHub repository below
           </p>
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fab fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/jackeast23"
+                href="https://github.com/jackeast23/AstarPathfinding"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
@@ -128,37 +114,31 @@ class Main extends React.Component {
             <img src={CodeBlog} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            This is a Code Blog that I built using React Js, Gatsby.js, SCSS, and HTML
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            I built this blog as a learning tool to better understand Gatsby, which was used to build my personal site. I also built this site to dip my toes in React, which I have become very interested in as it emerges as an incredible tool in web creation.
+          </p>
+          <p>
+            Below is a link to the GitHub repository as well as the site hosted on Netlify
           </p>
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fab fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/jackeast23"
+                href="https://github.com/jackeast23/CodeBlog"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
               </a>
             </li>
+            <li>
+            <a
+              href="https://distracted-newton-e7c85e.netlify.app/"
+              className="icon fa-globe"
+            >
+              <span className="label">Linkedin</span>
+            </a>
+          </li>
           </ul>
           <h3>LoginSite</h3>
           <span className="image main">
@@ -182,15 +162,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fab fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/jackeast23"
+                href="https://github.com/jackeast23/LoginSite"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
@@ -219,18 +191,18 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fab fa-linkedin"
+                href="https://github.com/jackeast23/JohnMcClane"
+                className="icon fa-github"
               >
-                <span className="label">Linkedin</span>
+                <span className="label">GitHub</span>
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/jackeast23"
-                className="icon fa-github"
+                href="https://twitter.com/McclaneOfficer"
+                className="icon fab fa-twitter"
               >
-                <span className="label">GitHub</span>
+                <span className="label">Linkedin</span>
               </a>
             </li>
           </ul>
@@ -256,15 +228,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fab fa-linkedin"
-              >
-                <span className="label">Linkedin</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/jackeast23"
+                href="https://github.com/jackeast23/SpaceShooter"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
