@@ -6,7 +6,7 @@ const Footer = (props) => (
         <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="https://linkedin.com/in/jack-east-1b491b209"
                 className="icon fab fa-linkedin"
               >
                 <span className="label">Linkedin</span>
