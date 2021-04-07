@@ -140,7 +140,7 @@ class Main extends React.Component {
             <img src={LoginSite} alt="" />
           </span>
           <p>
-            This is a project that uses Flask (a Python web framework), Python3, SQLAlchemy (an open-source SQL toolkit), and Javascript to create a site that handles user authentification, note creation, and databse storage.
+            This is a project that uses Flask (a Python web framework), Python3, SQLAlchemy (an open-source SQL toolkit), and Javascript to create a site that handles user authentification, note creation, and database storage.
             The site uses some HTML for formatting, bootstrap for the hamburger (header), and javascript for the notes functionality.
             With this site a user can create an account, login, create/delete notes, logout, and access those notes whenever they want.
             I built this site to get a better understanding of login and authentification that could eventually be used with other applications.
@@ -199,9 +199,9 @@ class Main extends React.Component {
           </span>
           <p>
             This is a 2D space shooter game made using Python3 and Pygame.
-            I built this project becasue it looked like a fun thing to try. 
+            I built this project because it looked like a fun thing to try. 
             Pygame is also a cool set of Python modules that I ended up using in the A* Pathfinding project to visualize the algorithm.
-            The game consist of two players that can each shoot at the opposing player to eliminate them from the game.
+            The game consists of two players that can each shoot at the opposing player to eliminate them from the game.
           </p>
           <p>
             Below is a link to the GitHub repository for this project as well as a link to the Twitter account
