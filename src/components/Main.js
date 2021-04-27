@@ -42,7 +42,7 @@ class Main extends React.Component {
             Hi! I'm Jack East
           </p>
           <p>
-            I’m from Toronto, Ontario. I recently graduated from Queen’s University in Kingsotn, Ontario where I studied Computer Engineering.
+            I’m from Toronto, Ontario. I recently graduated from Queen’s University in Kingston, Ontario where I studied Computer Engineering.
           </p>
           <p>
             Since graduating I spent the Summer working maintenace at Westview Golf Club and improving my programming skills in my free time.
