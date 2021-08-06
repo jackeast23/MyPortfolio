@@ -53,7 +53,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://linkedin.com/in/jack-east-1b491b209"
+                href="https://linkedin.com/in/jack-east"
                 className="icon fab fa-linkedin"
               >
                 <span className="label">Linkedin</span>
