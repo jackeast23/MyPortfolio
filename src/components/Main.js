@@ -229,7 +229,7 @@ class Main extends React.Component {
         <ul className="icons">
             <li>
               <a
-                href="https://docs.google.com/document/d/1iPjCGF_FD-HYWG7Nss1-8WOXsRepY6RuWJn-TDZdy4s/edit?usp=sharing"
+                href="https://drive.google.com/file/d/1QGMwDInIzuRQ71yL_NCRUiqOVYHx95vx/view?usp=sharing"
                 className="icon fab fa-file"
               >
                 <span className="label">Resume</span>
