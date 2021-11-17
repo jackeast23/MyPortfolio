@@ -45,7 +45,7 @@ class Main extends React.Component {
             I’m from Toronto, Ontario. I recently graduated from Queen’s University in Kingston, where I studied Computer Engineering.
           </p>
           <p>
-            Since graduating I spent the Summer working maintenace at Westview Golf Club and improving my programming skills in my free time.
+            Since graduating I spent the Summer working maintenance at Westview Golf Club and improving my programming skills in my free time.
           </p>
           <p>
             Right now, I'm interested in trying to suck less at cooking, weightlifting (to combat my improved cooking skills), playing video games, very amateur woodworking, and programming, where I'm currently interested in improving on React among other skills.
