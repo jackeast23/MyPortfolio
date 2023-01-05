@@ -48,7 +48,7 @@ class Main extends React.Component {
             Since graduating I spent the Summer working maintenance at Westview Golf Club and improving my programming skills in my free time.
           </p>
           <p>
-            Right now, I'm interested in trying to suck less at cooking, weightlifting (to combat my improved cooking skills), playing video games, very amateur woodworking, and programming, where I'm currently interested in improving on React among other skills.
+            Right now, I'm interested in programming, where I'm currently learnng React, trying to suck less at cooking, weightlifting (to combat my improved cooking skills), playing video games, and very amateur woodworking.
           </p>
           <ul className="icons">
             <li>
